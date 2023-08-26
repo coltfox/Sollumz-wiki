@@ -49,5 +49,5 @@
 * [🗂 Drawable Dictionary (.ydd) \[TODO\]](documentation/drawable-dictionary-.ydd-todo.md)
 * [💥 Collisions (.ybn) \[TODO\]](documentation/collisions-.ybn-todo.md)
 * [🎬 Clip Dictionary (.ycd) \[TODO\]](documentation/clip-dictionary-.ycd-todo.md)
-* [📇 Archetype Definition (.ytyp) \[TODO\]](documentation/archetype-definition-.ytyp-todo.md)
+* [📇 Archetype Definition (.ytyp)](documentation/archetype-definition-.ytyp.md)
 * [🗺 Map Data (.ymap) \[TODO\]](documentation/map-data-.ymap-todo.md)
