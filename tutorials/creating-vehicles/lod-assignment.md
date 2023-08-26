@@ -1,4 +1,4 @@
-# 🍢 LOD assignment
+# 🍢 LOD Assignment
 
 All models rely on LOD meshes, which greatly reduces graphics demand of detailed models and improves overall performance.
 
@@ -12,4 +12,4 @@ In order to render your mesh at any distance:
 2. Scroll to **Sollumz LOD.**
 3. Copy the name from High LOD to Very High, Medium and Low.
 
-<figure><img src="../../../.gitbook/assets/10_lod_assignment.gif" alt=""><figcaption><p>LOD assignment for all levels</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/10_lod_assignment.gif" alt=""><figcaption><p>LOD assignment for all levels</p></figcaption></figure>

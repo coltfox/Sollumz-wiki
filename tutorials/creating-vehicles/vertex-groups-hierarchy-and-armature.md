@@ -1,10 +1,10 @@
-# 🚦 Vertex Groups, hierarchy and armature
+# 🚦 Vertex Groups, Hierarchy, and Armature
 
 ### Create and assign Vertex Groups
 
 To create a new vertex group, go to **Data** tab, click `+` in **Vertex Groups**, double click on the Group name and rename it to **bonnet**.
 
-<figure><img src="../../../.gitbook/assets/4_create_vertexgroup.gif" alt=""><figcaption><p>Process of creating a vertex group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4_create_vertexgroup.gif" alt=""><figcaption><p>Process of creating a vertex group</p></figcaption></figure>
 
 1. Change **Object Mode** to **Edit Mode.**
 2. Switch to **Face Select.**
@@ -13,19 +13,19 @@ To create a new vertex group, go to **Data** tab, click `+` in **Vertex Groups**
 
 Now all of the selected faces are properly set to the **bonnet** vertex group**.**
 
-<figure><img src="../../../.gitbook/assets/5_assign_vertexgroup.gif" alt=""><figcaption><p>Assignment of faces to vertex group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5_assign_vertexgroup.gif" alt=""><figcaption><p>Assignment of faces to vertex group</p></figcaption></figure>
 
 ### Hierarchy
 
 Our new custom bonnet model has to be considered by Sollumz as a valid part, so we have to move the mesh by expanding Adder's armature then drag and drop bonnet's Drawable Model inside `adder.mesh`
 
-<figure><img src="../../../.gitbook/assets/6_move_in_hierarchy.gif" alt=""><figcaption><p>Bonnet part moved into adder.mesh</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6_move_in_hierarchy.gif" alt=""><figcaption><p>Bonnet part moved into adder.mesh</p></figcaption></figure>
 
 {% hint style="info" %}
 You can delete the original bonnet, since is not needed anymore.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/7_delete_bonnet.gif" alt=""><figcaption><p>Removal of vanilla bonnet part of adder.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7_delete_bonnet.gif" alt=""><figcaption><p>Removal of vanilla bonnet part of adder.</p></figcaption></figure>
 
 ### Armature
 
@@ -35,4 +35,4 @@ A replacement custom part has also to be linked to the armature, you can do this
 2. Add an **Armature** modifier.
 3. Select your vehicle's armature.
 
-<figure><img src="../../../.gitbook/assets/8_armature.gif" alt=""><figcaption><p>Armature modifier creation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8_armature.gif" alt=""><figcaption><p>Armature modifier creation</p></figcaption></figure>
