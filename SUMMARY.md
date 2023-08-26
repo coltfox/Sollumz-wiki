@@ -48,3 +48,4 @@
 * [🎬 Clip Dictionary (.ycd) \[TODO\]](documentation/clip-dictionary-.ycd-todo.md)
 * [📇 Archetype Definition (.ytyp) \[TODO\]](documentation/archetype-definition-.ytyp-todo.md)
 * [🗺 Map Data (.ymap) \[TODO\]](documentation/map-data-.ymap-todo.md)
+* [📖 Vehicle shaders documentation](documentation/vehicle-shaders-documentation.md)
