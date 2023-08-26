@@ -13,4 +13,4 @@ Bones can be easily moved in Edit mode. To move them:
 5. Click on Move icon
 6. Move the bone using gizmo.
 
-<figure><img src="../../.gitbook/assets/9_moving_bone.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/9_moving_bone.gif" alt=""><figcaption></figcaption></figure>
