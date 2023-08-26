@@ -4,9 +4,7 @@ description: >-
   technical usage
 ---
 
-# 📖 Vehicle shaders documentation
-
-
+# Vehicle Shaders
 
 ### Vehicle Paint shaders
 
