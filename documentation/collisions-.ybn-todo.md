@@ -1,3 +1,0 @@
-# 💥 Static Collisions (.ybn)
-
-TODO
