@@ -27,7 +27,7 @@
   * [📤 Exporting](tutorials/creating-vehicles/exporting.md)
 * [🔫 Creating Weapons \[TODO\]](tutorials/creating-weapons-todo.md)
 * [🎬 Basic Animation Editing \[TODO\]](tutorials/basic-animation-editing-todo.md)
-* [👕 Basic Clothes Editing \[TODO\]](tutorials/basic-clothes-editing-todo.md)
+* [👕 Basic Clothes Editing](tutorials/basic-clothes-editing.md)
 
 ## 📄 Documentation
 

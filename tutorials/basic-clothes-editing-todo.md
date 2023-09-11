@@ -1,3 +1,0 @@
-# 👕 Basic Clothes Editing
-
-TODO
