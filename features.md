@@ -36,7 +36,7 @@ Since this plugin was designed around CodeWalker's XML file formats, OpenIV is n
 
 #### Fragment (.yft)
 
-<table><thead><tr><th width="414">Feature</th><th align="center">Support</th></tr></thead><tbody><tr><td>Vehicles</td><td align="center">🟩</td></tr><tr><td>Breakable props (i.e. street lights)</td><td align="center">🟩</td></tr><tr><td>Explodable props (i.e. gas tanks)</td><td align="center">🟥</td></tr><tr><td>Ped yfts</td><td align="center">🟥</td></tr><tr><td>Cloth yfts</td><td align="center">🟥</td></tr></tbody></table>
+<table><thead><tr><th width="414">Feature</th><th align="center">Support</th></tr></thead><tbody><tr><td>Vehicles</td><td align="center">🟩</td></tr><tr><td>Breakable props (i.e. street lights)</td><td align="center">🟩</td></tr><tr><td>Breakable glass props</td><td align="center">🟩</td></tr><tr><td>Explodable props (i.e. gas tanks)</td><td align="center">🟥</td></tr><tr><td>Ped yfts</td><td align="center">🟥</td></tr><tr><td>Cloth yfts</td><td align="center">🟥</td></tr></tbody></table>
 
 <details>
 
@@ -97,7 +97,7 @@ a_c_chickenhawk.yft
 
 #### Clip Dictionary (.ycd)
 
-<table><thead><tr><th width="416">Feature</th><th align="center">Support</th></tr></thead><tbody><tr><td>Skeletal Animations</td><td align="center">🟩</td></tr><tr><td>UV Animations (export only)</td><td align="center">🟧</td></tr><tr><td>Camera Animations</td><td align="center">🟥</td></tr><tr><td>Light Animations</td><td align="center">🟥</td></tr></tbody></table>
+<table><thead><tr><th width="416">Feature</th><th align="center">Support</th></tr></thead><tbody><tr><td>Skeletal Animations</td><td align="center">🟩</td></tr><tr><td>UV Animations</td><td align="center">🟩</td></tr><tr><td>Camera Animations</td><td align="center">🟩</td></tr><tr><td>Light Animations</td><td align="center">🟧</td></tr></tbody></table>
 
 #### **Map Data (.ymap)**
 
